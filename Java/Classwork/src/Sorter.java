@@ -1,6 +1,6 @@
 
 public class Sorter {
-	public static void sortInt(Comparable[] array)
+	public static void sort(Comparable[] array)
 	{
 		for (int i = 0; i < array.length; i++)
 		{
@@ -21,15 +21,13 @@ public class Sorter {
 			}
 			else
 			{
-				System.out.print(array[i] + ".");
+				System.out.println(array[i] + ".");
 			}
 			
 		}
-			
-		
 	}
 	
-	public static void swapInt(Comparable[] array, int i, int j)
+	public static void swap(Comparable[] array, int i, int j)
 	{
 		Comparable temp = array[i];
 		array[i] = array[j];
