@@ -1,0 +1,5 @@
+COP 3530 - Data Structures & Algorithms I	- 10199 - M-W 2:30 - 3:15	req
+CEN 3031 - Software engineerijg			- ???	- 			req
+COP 3665 - Mobile Programming			- ???	- 			req
+COP 3813 - Server-Side Programming		- ???	- 			req
+COP 4027 - advanced computer programming	- ???	- 			elect
