@@ -9,7 +9,7 @@ public class SelectionSort {
 		
 		Double[] prices = {4.1, 7.2, 3.1, 1.5, 1.1, 2.2};
 		
-		Sorter.sort(ages);
+		Sorter.sort(prices);
 	}
 	
 }
