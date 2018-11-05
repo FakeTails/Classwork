@@ -1,5 +1,25 @@
-COP 3530 - Data Structures & Algorithms I	- 10199 - M-W 2:30 - 3:15	req
+MAC 2233 - Calc With Bus App 			- 10512 - M-W 1:00 - 2:15	req !!
+
+COP 3530 - Data Structures & Algorithms I	- 10199 - M-W 2:30 - 3:15	req !!!
+
+CEN 4721 - Human-Computer Interaction		- 11034 - online		elect
+
+COP 4710 - Database Systems			- 10181 - online		req
+
+ECO 2023 - Principles Economics Micro 		- 10246 - online		req !!
+
+
 CEN 3031 - Software engineerijg			- ???	- 			req
 COP 3665 - Mobile Programming			- ???	- 			req
 COP 3813 - Server-Side Programming		- ???	- 			req
 COP 4027 - advanced computer programming	- ???	- 			elect
+
+
+------- Computer Engineering
+
+CHM 2045 - General Chemistry I			- 10444 - T-R 9:30 - 10:45    -	req
+CHM 2045 - General Chemistry I			- 10443 - T-R 2:30 - 3:45     -	req
+
+EGS 4032 - Professional Ethics			- 10066 - Online 	      -	req
+
+MAC 2311 - Anlytc Geom/Cal I			- 12784 - T-R 1:00 - 2:45     -	req !!!
