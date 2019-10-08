@@ -11,6 +11,17 @@ app.set('view engine', 'pug');
 // Set port app will run on
 app.set('port', process.env.PORT || 3000);
 
+app.use(bodyParser.urlencoded());
+
+app.post('/register', function (req, res){
+	console.log(req.body);
+	
+	res.render('thanks', {
+		name: "k",
+		favBook: "p"
+	});
+})
+
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', function(req, res) {
