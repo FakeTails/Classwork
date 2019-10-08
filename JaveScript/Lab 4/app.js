@@ -15,10 +15,10 @@ app.use(bodyParser.urlencoded());
 
 app.post('/register', function (req, res){
 	console.log(req.body);
-	
+
 	res.render('thanks', {
-		name: "k",
-		favBook: "p"
+		name: req.body.name,
+		favoriteBook: req.body.favoriteBook
 	});
 })
 
